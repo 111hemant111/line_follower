@@ -4,6 +4,13 @@ A robot based on Infrared transmitters and receivers to track a black line on wh
 ## Status
 Completed. Scope for improvisation. Last update Mar 2016.
 
+## Components used
+1. Arduino Uno
+2. Infrared sensors
+3. LEDs
+4. 16x2 LCD Display
+5. DC Motors - 2
+6. Misc. components
 
 ## License
 &copy; 2016 Hemant Kuruva
