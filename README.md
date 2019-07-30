@@ -2,7 +2,7 @@
 A robot based on Infrared transmitters and receivers to track a black line on white backdrop.
 
 ## Status
-Completed. Last update Mar 2016.
+Completed. Scope for improvisation. Last update Mar 2016.
 
 
 ## License
